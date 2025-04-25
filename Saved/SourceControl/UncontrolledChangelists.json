@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Data/Unreal/Projects/5.3.2/Luigis_Casino/Content/Table.uasset",
+				"D:/Data/Unreal/Projects/5.3.2/Luigis_Casino/Content/CardHolder.uasset",
+				"D:/Data/Unreal/Projects/5.3.2/Luigis_Casino/Content/Card.uasset",
+				"D:/Data/Unreal/Projects/5.3.2/Luigis_Casino/Content/Deck.uasset",
+				"D:/Data/Unreal/Projects/5.3.2/Luigis_Casino/Content/__ExternalActors__/Casino/0/PP/HK0556YRTNSMZ5VMNQW2UL.uasset",
+				"D:/Data/Unreal/Projects/5.3.2/Luigis_Casino/Content/__ExternalActors__/Casino/0/E4/LYKJGW2TIUUG4VB8VNNMMM.uasset",
 				"C:/Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/CasinoAssets/_material0_001.uasset",
 				"C:/Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/CasinoAssets/mat_board.uasset",
 				"C:/Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/CasinoAssets/mat_floor.uasset",
