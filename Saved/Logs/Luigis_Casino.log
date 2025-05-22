@@ -1961,3 +1961,350 @@ Script call stack:
 [2025.05.22-16.47.11:109][363]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
 [2025.05.22-16.47.11:584][393]BlueprintLog: New page: Compile Table
 [2025.05.22-16.47.11:663][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.22-16.47.54:002][817]LogSlate: Took 0.007042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.22-16.47.57:389][939]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.05.22-16.50.21:979][557]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetArrayLibrary::Array_Set' [Element not found.]
+[2025.05.22-16.50.31:750][116]LogEditorTransaction: Undo Delete current selection
+[2025.05.22-16.51.11:173][861]BlueprintLog: New page: Compile Table
+[2025.05.22-16.51.11:194][861]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Target Array  and  Player Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.51.11:194][861]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Player Moves  and  Target Array : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.51.11:200][861]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Player Moves  and  Target Array : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.51.11:201][861]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Target Array  and  Player Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.51.11:208][861]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Bytes is not compatible with Array of Integers.' at  Get (a copy)
+[2025.05.22-16.51.11:238][861]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.22-16.51.11:290][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.22-16.51.11:889][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.51.11:949][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset" SILENT=true
+[2025.05.22-16.51.11:993][889]LogSavePackage: Moving output files for package: /Game/Games/Table
+[2025.05.22-16.51.11:994][889]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/TableC975E6384DE1AAB5CFA2CDBB2BCBF374.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset'
+[2025.05.22-16.51.12:001][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.28 sec)
+[2025.05.22-16.51.12:008][889]AssetCheck: New page: Asset Save: Table
+[2025.05.22-16.51.12:009][889]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
+[2025.05.22-16.51.26:417][829]BlueprintLog: New page: Compile Table
+[2025.05.22-16.51.26:433][829]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Player Moves  and  Target Array : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.51.26:433][829]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Target Array  and  Player Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.51.26:436][829]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Bytes is not compatible with Array of Integers.' at  Get (a copy)
+[2025.05.22-16.51.26:453][829]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.22-16.51.26:500][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.05.22-16.51.28:837][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.51.28:884][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset" SILENT=true
+[2025.05.22-16.51.28:918][968]LogSavePackage: Moving output files for package: /Game/Games/Table
+[2025.05.22-16.51.28:919][968]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Table2FC6D6D746572A3E9F291BAB16D1F4A5.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset'
+[2025.05.22-16.51.28:927][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.37 sec)
+[2025.05.22-16.51.28:930][968]AssetCheck: New page: Asset Save: Table
+[2025.05.22-16.51.28:931][968]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
+[2025.05.22-16.51.50:610][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.51.50:668][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset" SILENT=true
+[2025.05.22-16.51.50:701][657]LogSavePackage: Moving output files for package: /Game/Games/Table
+[2025.05.22-16.51.50:702][657]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/TableEC4D3C66464DF243B6E1459F59452A45.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset'
+[2025.05.22-16.51.50:710][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 3.47 sec)
+[2025.05.22-16.51.50:714][657]AssetCheck: New page: Asset Save: Table
+[2025.05.22-16.51.50:714][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
+[2025.05.22-16.51.51:070][682]BlueprintLog: New page: Compile Table
+[2025.05.22-16.51.51:083][682]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Player Moves  and  Target Array : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.51.51:084][682]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Target Array  and  Player Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.51.51:086][682]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Bytes is not compatible with Array of Integers.' at  Get (a copy)
+[2025.05.22-16.51.51:102][682]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.22-16.51.51:140][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.22-16.52.08:446][ 71]BlueprintLog: New page: Compile Table
+[2025.05.22-16.52.08:461][ 71]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Player Moves  and  Target Array : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.52.08:461][ 71]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Target Array  and  Player Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.52.08:464][ 71]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Bytes is not compatible with Array of Integers.' at  Get (a copy)
+[2025.05.22-16.52.08:480][ 71]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.22-16.52.08:519][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.22-16.52.09:049][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.52.09:101][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset" SILENT=true
+[2025.05.22-16.52.09:137][101]LogSavePackage: Moving output files for package: /Game/Games/Table
+[2025.05.22-16.52.09:138][101]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Table3741DBC944AA10E5EEC7698B5078ED2D.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset'
+[2025.05.22-16.52.09:148][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 3.57 sec)
+[2025.05.22-16.52.09:151][101]AssetCheck: New page: Asset Save: Table
+[2025.05.22-16.52.09:151][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
+[2025.05.22-16.52.44:439][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.22-16.52.44:442][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Casino' took 0.023
+[2025.05.22-16.52.44:442][277]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Games/RideTheBus/Table_RideTheBus] ([2] browsable assets)...
+[2025.05.22-16.52.44:442][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Games/RideTheBus/Table_RideTheBus]
+[2025.05.22-16.52.44:466][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Games/RideTheBus/Table_RideTheBus_Auto5
+[2025.05.22-16.52.44:467][277]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Table_RideTheBus_Auto5B05C80C54468151883488B9504358158.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Autosaves/Game/Games/RideTheBus/Table_RideTheBus_Auto5.uasset'
+[2025.05.22-16.52.44:468][277]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Games/Table] ([2] browsable assets)...
+[2025.05.22-16.52.44:468][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Games/Table]
+[2025.05.22-16.52.44:468][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Autosaves/Game/Games/Table_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.05.22-16.52.44:499][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Games/Table_Auto5
+[2025.05.22-16.52.44:500][277]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Table_Auto5618357DA45D0ADB503F027B69740FFF2.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Autosaves/Game/Games/Table_Auto5.uasset'
+[2025.05.22-16.52.44:501][277]LogFileHelpers: Auto-saving content packages took 0.059
+[2025.05.22-16.53.22:550][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.53.22:603][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset" SILENT=true
+[2025.05.22-16.53.22:643][201]LogSavePackage: Moving output files for package: /Game/Games/Table
+[2025.05.22-16.53.22:644][201]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Table3502975E4491AA71408538804CB7B1F3.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset'
+[2025.05.22-16.53.22:654][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 3.67 sec)
+[2025.05.22-16.53.22:659][201]AssetCheck: New page: Asset Save: Table
+[2025.05.22-16.53.22:659][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
+[2025.05.22-16.53.22:930][220]BlueprintLog: New page: Compile Table
+[2025.05.22-16.53.22:948][220]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Bytes is not compatible with Array of Integers.' at  Get (a copy)
+[2025.05.22-16.53.22:958][220]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\CardGame.uasset: [Compiler] Can't connect pins  Move  and  Move : Convert Byte to Integer
+[2025.05.22-16.53.22:958][220]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\CardGame.uasset: [Compiler] Can't connect pins  Move  and  Move : Convert Byte to Integer
+[2025.05.22-16.53.22:968][220]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.22-16.53.23:011][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.22-16.53.37:125][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.53.37:186][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset" SILENT=true
+[2025.05.22-16.53.37:236][225]LogSavePackage: Moving output files for package: /Game/Games/Table
+[2025.05.22-16.53.37:237][225]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/TableD47CE9D8491D1BDDCEEB04AECE37B465.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset'
+[2025.05.22-16.53.37:246][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 3.79 sec)
+[2025.05.22-16.53.37:249][225]AssetCheck: New page: Asset Save: Table
+[2025.05.22-16.53.37:250][225]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
+[2025.05.22-16.53.37:421][237]BlueprintLog: New page: Compile Table
+[2025.05.22-16.53.37:437][237]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Invalid pin connection from  Array  and  Valid Moves : Array of Bytes is not compatible with Array of Integers. (You may have changed the type after the connections were made)
+[2025.05.22-16.53.37:438][237]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Bytes is not compatible with Array of Integers.' at  Get (a copy)
+[2025.05.22-16.53.37:439][237]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Bytes is not compatible with Array of Integers.' at  Get (a copy) generated from expanding For Each Loop
+[2025.05.22-16.53.37:439][237]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Valid Moves  and  Target Array generated from expanding For Each Loop : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.53.37:439][237]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\Table.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Valid Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.53.37:453][237]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\RideTheBus\Table_RideTheBus.uasset: [Compiler] Can't connect pins  Correct Moves  and  Valid Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.53.37:453][237]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\RideTheBus\Table_RideTheBus.uasset: [Compiler] Can't connect pins  Valid Moves  and  Correct Moves : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.53.37:511][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.22-16.54.29:064][837]LogEditorTransaction: Undo Delete current selection
+[2025.05.22-16.54.41:033][613]BlueprintLog: New page: Compile Table
+[2025.05.22-16.54.41:062][613]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\RideTheBus\Table_RideTheBus.uasset: [Compiler] Can't connect pins  Correct Moves  and  Valid Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.54.41:063][613]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\RideTheBus\Table_RideTheBus.uasset: [Compiler] Can't connect pins  Valid Moves  and  Correct Moves : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.54.41:112][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.22-16.54.41:597][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.54.41:650][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset" SILENT=true
+[2025.05.22-16.54.41:689][639]LogSavePackage: Moving output files for package: /Game/Games/Table
+[2025.05.22-16.54.41:690][639]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/TableBCBCB63B4D856B66316AE4A8695144E7.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset'
+[2025.05.22-16.54.41:699][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 3.89 sec)
+[2025.05.22-16.54.41:702][639]AssetCheck: New page: Asset Save: Table
+[2025.05.22-16.54.41:703][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
+[2025.05.22-16.54.43:299][736]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-16.54.43:309][736]LogContentBundle: [Casino(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-16.54.43:309][736]LogWorldPartition: Display: GenerateStreaming for 'Casino' started...
+[2025.05.22-16.54.43:465][736]LogWorldPartition: Display: GenerateStreaming for 'Casino' took 155 ms (total: 1.06 sec)
+[2025.05.22-16.54.43:466][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-16.54.43:466][736]BlueprintLog: Warning: Blueprint failed to compile:  Table_RideTheBus
+[2025.05.22-16.54.43:466][736]BlueprintLog: Warning: Blueprint failed to compile:  CardGame
+[2025.05.22-16.54.46:528][736]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.05.22-16.54.51:657][ 95]BlueprintLog: New page: Compile Table_RideTheBus
+[2025.05.22-16.54.51:668][ 95]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\RideTheBus\Table_RideTheBus.uasset: [Compiler] Can't connect pins  Correct Moves  and  Valid Moves : Array of Bytes is not compatible with Array of Integers.
+[2025.05.22-16.54.51:669][ 95]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\Games\RideTheBus\Table_RideTheBus.uasset: [Compiler] Can't connect pins  Valid Moves  and  Correct Moves : Array of Integers is not compatible with Array of Bytes.
+[2025.05.22-16.54.51:714][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.22-16.55.06:971][142]BlueprintLog: New page: Compile Table
+[2025.05.22-16.55.07:051][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.22-16.55.07:593][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.55.07:649][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/Table" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset" SILENT=true
+[2025.05.22-16.55.07:682][172]LogSavePackage: Moving output files for package: /Game/Games/Table
+[2025.05.22-16.55.07:683][172]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Table4B97E8BA4C54E7220157CD8BEBE3151F.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/Table.uasset'
+[2025.05.22-16.55.07:693][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.99 sec)
+[2025.05.22-16.55.07:695][172]AssetCheck: New page: Asset Save: Table
+[2025.05.22-16.55.07:695][172]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/Table.Table
+[2025.05.22-16.55.32:748][786]BlueprintLog: New page: Compile Table_RideTheBus
+[2025.05.22-16.55.32:810][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.22-16.55.33:255][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.55.33:343][810]LogSavePackage: Moving output files for package: /Game/Games/RideTheBus/Table_RideTheBus
+[2025.05.22-16.55.33:344][810]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Table_RideTheBus0926E82F4A28225BC78C52AD598D7FC8.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/RideTheBus/Table_RideTheBus.uasset'
+[2025.05.22-16.55.33:353][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 4.09 sec)
+[2025.05.22-16.55.33:356][810]AssetCheck: New page: Asset Save: Table_RideTheBus
+[2025.05.22-16.55.33:356][810]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/RideTheBus/Table_RideTheBus.Table_RideTheBus
+[2025.05.22-16.55.38:338][171]BlueprintLog: New page: Compile Table_RideTheBus
+[2025.05.22-16.55.38:401][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.22-16.55.38:783][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.55.38:860][189]LogSavePackage: Moving output files for package: /Game/Games/RideTheBus/Table_RideTheBus
+[2025.05.22-16.55.38:861][189]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/Table_RideTheBus3FA0EF8849FA7BC6AC79E186120B7B8C.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/RideTheBus/Table_RideTheBus.uasset'
+[2025.05.22-16.55.38:871][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 4.18 sec)
+[2025.05.22-16.55.38:874][189]AssetCheck: New page: Asset Save: Table_RideTheBus
+[2025.05.22-16.55.38:874][189]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/RideTheBus/Table_RideTheBus.Table_RideTheBus
+[2025.05.22-16.55.40:621][293]BlueprintLog: New page: Compile WI_RideTheBuss_1
+[2025.05.22-16.55.40:652][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.05.22-16.55.41:057][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.55.41:134][298]LogSavePackage: Moving output files for package: /Game/Games/RideTheBus/WI_RideTheBuss_1
+[2025.05.22-16.55.41:135][298]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/WI_RideTheBuss_118BEC5E84E11A84F2C220FBB5AE1009B.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/RideTheBus/WI_RideTheBuss_1.uasset'
+[2025.05.22-16.55.41:146][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 4.27 sec)
+[2025.05.22-16.55.41:148][298]AssetCheck: New page: Asset Save: WI_RideTheBuss_1
+[2025.05.22-16.55.41:148][298]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Games/RideTheBus/WI_RideTheBuss_1.WI_RideTheBuss_1
+[2025.05.22-16.55.43:001][408]BlueprintLog: New page: Compile Player
+[2025.05.22-16.55.43:053][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.22-16.55.43:525][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.55.43:567][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Player.uasset" SILENT=true
+[2025.05.22-16.55.43:583][431]LogSavePackage: Moving output files for package: /Game/Player
+[2025.05.22-16.55.43:584][431]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/PlayerF67FC6364FA234F49A4340831EB676DD.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Player.uasset'
+[2025.05.22-16.55.43:594][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 4.34 sec)
+[2025.05.22-16.55.43:596][431]AssetCheck: New page: Asset Save: Player
+[2025.05.22-16.55.43:596][431]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player.Player
+[2025.05.22-16.55.44:909][514]BlueprintLog: New page: Compile CardGameController
+[2025.05.22-16.55.44:945][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.22-16.55.45:301][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.55.45:351][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Games/CardGameController" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/CardGameController.uasset" SILENT=true
+[2025.05.22-16.55.45:355][534]LogSavePackage: Moving output files for package: /Game/Games/CardGameController
+[2025.05.22-16.55.45:356][534]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/CardGameController4B2DD8354E6727D2A1173E9F45570C72.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/Games/CardGameController.uasset'
+[2025.05.22-16.55.45:366][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 4.40 sec)
+[2025.05.22-16.55.45:368][534]AssetCheck: New page: Asset Save: CardGameController
+[2025.05.22-16.55.45:368][534]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Games/CardGameController.CardGameController
+[2025.05.22-16.55.45:969][573]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-16.55.45:978][573]LogContentBundle: [Casino(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-16.55.45:978][573]LogWorldPartition: Display: GenerateStreaming for 'Casino' started...
+[2025.05.22-16.55.46:124][573]LogWorldPartition: Display: GenerateStreaming for 'Casino' took 146 ms (total: 1.21 sec)
+[2025.05.22-16.55.46:125][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-16.55.46:125][573]BlueprintLog: Warning: Blueprint failed to compile:  CardGame
+[2025.05.22-16.55.47:997][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardGame.CardGame
+[2025.05.22-16.55.47:997][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.22-16.55.47:997][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.22-16.55.48:112][573]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.05.22-16.55.50:620][716]BlueprintLog: New page: Compile CardGame
+[2025.05.22-16.55.50:625][716]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\CardGame.uasset: [Compiler] Can't connect pins  Move  and  Move : Convert Byte to Integer
+[2025.05.22-16.55.50:625][716]LogBlueprint: Error: [AssetLog] C:\Users\BNilufer\Documents\Unreal Projects\Luigis_Casino\Content\CardGame.uasset: [Compiler] Can't connect pins  Move  and  Move : Convert Byte to Integer
+[2025.05.22-16.55.50:663][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.22-16.55.59:009][285]BlueprintLog: New page: Compile CardGame
+[2025.05.22-16.55.59:048][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.22-16.55.59:498][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.55.59:550][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardGame" FILE="../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/CardGame.uasset" SILENT=true
+[2025.05.22-16.55.59:557][312]LogSavePackage: Moving output files for package: /Game/CardGame
+[2025.05.22-16.55.59:558][312]LogSavePackage: Moving '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Saved/CardGameBA9A2D44426C6DD08172589C8A12EDF7.tmp' to '../../../../../../Users/BNilufer/Documents/Unreal Projects/Luigis_Casino/Content/CardGame.uasset'
+[2025.05.22-16.55.59:566][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 4.47 sec)
+[2025.05.22-16.55.59:568][312]AssetCheck: New page: Asset Save: CardGame
+[2025.05.22-16.55.59:568][312]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CardGame.CardGame
+[2025.05.22-16.56.01:279][417]BlueprintLog: New page: Compile CardGame
+[2025.05.22-16.56.01:317][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.22-16.56.01:980][457]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-16.56.01:989][457]LogContentBundle: [Casino(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-16.56.01:989][457]LogWorldPartition: Display: GenerateStreaming for 'Casino' started...
+[2025.05.22-16.56.02:140][457]LogWorldPartition: Display: GenerateStreaming for 'Casino' took 151 ms (total: 1.36 sec)
+[2025.05.22-16.56.02:140][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-16.56.02:140][457]PIE: New page: PIE session: Casino (May 22, 2025, 8:56:02 AM)
+[2025.05.22-16.56.02:141][457]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Casino
+[2025.05.22-16.56.02:152][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011359s)
+[2025.05.22-16.56.02:152][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Casino.Casino to /Game/UEDPIE_0_Casino.Casino (0.011395s)
+[2025.05.22-16.56.02:169][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.05.22-16.56.02:172][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.22-16.56.02:172][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.22-16.56.02:172][457]LogAIModule: Creating AISystem for world Casino
+[2025.05.22-16.56.02:173][457]LogWorldPartition: ULevel::OnLevelLoaded(Casino)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-16.56.02:173][457]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-16.56.02:173][457]LogWorldPartition: UWorldPartition::Initialize : World = Casino, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-16.56.02:173][457]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-16.56.02:176][457]LogContentBundle: [Casino(Standalone)] Creating new contrainer.
+[2025.05.22-16.56.02:176][457]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.49 sec)
+[2025.05.22-16.56.02:176][457]LogPlayLevel: PIE: World Init took: (0.004364s)
+[2025.05.22-16.56.02:176][457]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.22-16.56.02:176][457]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-16.56.02:176][457]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-16.56.02:176][457]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-16.56.02:176][457]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-16.56.02:176][457]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-16.56.02:176][457]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-16.56.02:176][457]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-16.56.02:176][457]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-16.56.02:177][457]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-16.56.02:177][457]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-16.56.02:177][457]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-16.56.02:180][457]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-16.56.02:218][457]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.05.22-16.56.02:218][457]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-16.56.02:218][457]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-16.56.02:218][457]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-16.56.02:219][457]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.22-16.56.02:219][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.22-16.56.02:221][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.22-16.56.02:221][457]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.22-16.56.02:221][457]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.22-16.56.02:221][457]LogAudio: Display: Audio Device (ID: 5) registered with world 'Casino'.
+[2025.05.22-16.56.02:221][457]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.22-16.56.02:228][457]LogLoad: Game class is 'CardGame_C'
+[2025.05.22-16.56.02:230][457]LogWorld: Bringing World /Game/UEDPIE_0_Casino.Casino up for play (max tick rate 0) at 2025.05.22-12.56.02
+[2025.05.22-16.56.02:230][457]LogWorld: Bringing up level for play took: 0.000919
+[2025.05.22-16.56.02:232][457]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.05.22-16.56.02:234][457]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2025.05.22-16.56.02:234][457]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5.193 Y=257.921 Z=128.613,P=-0.000000 Y=-90.000000 R=0.000000
+[2025.05.22-16.56.02:234][457]LogStreaming: Display: FlushAsyncLoading(): 2 QueuedPackages, 0 AsyncPackages
+[2025.05.22-16.56.02:236][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/0/52/2YBV7LPECZZSQNL8M5ZX56.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:236][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/0/MH/LXSSX53456VDNPF8BBZFZ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:236][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/0/NH/FV83XP4KJXGAOD92H8LAPM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:236][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/1/4D/O5JPKXR8GP1XE3A8GO8OGJ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:236][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/1/4D/O5JPKXR8GP1XE3A8GO8OGJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:236][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/1/SF/7HI2TATE5HD4ASPV0ZOARY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:236][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/1/ST/EUCV44B404LN26HTOG4CD6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:236][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/69/YPA2PO1BO3C1V5JHREVB79.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/8T/4TKI1PRHU5TH1EVVALV8VP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/97/9OMSMK9W4206IRFBCIWWUI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/M3/891X1DUX8PBMFI4PE10OND.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/M3/891X1DUX8PBMFI4PE10OND.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/M3/891X1DUX8PBMFI4PE10OND.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/M3/891X1DUX8PBMFI4PE10OND.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/O2/5AE5KBRTJGGYW01455PY5A.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/O2/5AE5KBRTJGGYW01455PY5A.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/2/XK/T480Q8PM7GQEAUBVHT9QQF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/3/2X/0C8DYUS22O55K9M47Q84SY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/3/7O/7KJ9DBG09S2J50S2KQXC2M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/4/0D/PSSU2RGA5EWZC6W3BBEEPM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/4/0D/PSSU2RGA5EWZC6W3BBEEPM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/4/BR/4OFKRRZQM0ZCO6BWALOEIB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/4/UW/8ZLI7PF17XAPVVMFDOF75I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/4/VU/86E8QGMRT9AEXWD3R71J5Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/70/1177WG2OKFJ6IY76BFCFQ8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/B4/5PK7Y5B9VK7OOMR11AXDRN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/CS/1VL2L97B94P6NDJXUNC8YN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/MR/XILM2X8AM1AFCB71O6AFWV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/O7/JT832QM0TDAEGFZ9BA71SS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/O7/JT832QM0TDAEGFZ9BA71SS.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/U3/WNZTZZGVDXIJRNK3LAT4DD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/U3/WNZTZZGVDXIJRNK3LAT4DD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/5/VA/UM83MYL1EU2T0L9ZGXQRK6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/6/CF/IMG6FXLU8GCPQBXTH5BYNO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/6/ZS/ELJMYSRIYULO674WLRBPVN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/7/3W/D5A22WL42M7JSHSFUQPG8E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/7/4X/A1TIBF8Q8OEO7SP5WPH2FG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/8/K6/OMH3UXMCA67NRBSWGULABB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/8/TT/HUG9BB3DL5C9NOEFFFKESC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/9/4K/PMI7SIB6SZNJ9ZBIO4SF95.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/9/4O/R4ZFJEFN7XXMFIGCF8ZCQD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:237][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/9/DY/T9OP1C4N46729N1G2DJGP7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/9/DY/T9OP1C4N46729N1G2DJGP7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/A/2Z/YVTDLH00UOKL5J82OIVLQD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/A/PF/ET63ACVFK4D21K5NC7JIDZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/B/4Z/IC0BF68G8NN1NZXWKI2XV9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/B/4Z/IC0BF68G8NN1NZXWKI2XV9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/B/CB/ND32EOJSE90BUR3VY2713O.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/B/CB/ND32EOJSE90BUR3VY2713O.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/B/GK/Y4EIKDB5DND0NI2LMIY4XO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/B/VW/C55KLU8THPA6GFAQO4BK5G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/C/NC/5SHSWOE2SQ6XWL813P9I2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/C/PC/X5YG9ZID0215NYFC28BR6B.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/C/PC/X5YG9ZID0215NYFC28BR6B.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/D/0B/TME4MWFOPY6CBV8TQ79B8T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/D/BR/F3TKTOU8YS5QMXNY2ZKWZC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/D/FY/QFJFQ6WG5S5RTBX1GUSO76.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/D/T8/GM6QJR6ZOGEMA2H57DHSIM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/E/02/G1X8L5TG0MJXV23UZ0YMBF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/E/02/G1X8L5TG0MJXV23UZ0YMBF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/E/LW/77009DSGIHKV04T6R6NTQ8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/E/LW/77009DSGIHKV04T6R6NTQ8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/F/3S/G8V5681YX247N8NXG70QZZ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.22-16.56.02:238][457]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Casino/F/3S/G8V5681YX247N8NXG70QZZ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.22-16.56.02:270][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-16.56.02:271][457]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PlayerWinnings' of length 0 in '/Game/Games/Table.Table_C'!
+[2025.05.22-16.56.02:271][457]LogScript: Warning: Script Msg called by: Table_RideTheBus_C /Game/UEDPIE_0_Casino.Casino:PersistentLevel.Table_RideTheBus_C_0
+[2025.05.22-16.56.02:271][457]LogBlueprintUserMessages: Warning: SetTimer passed a function (SetTablePlayerMove) that expects parameters.
+[2025.05.22-16.56.02:271][457]LogBlueprintUserMessages: Warning: SetTimer passed a function (SetTablePlayerMove) that expects parameters.
+[2025.05.22-16.56.02:271][457]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.22-16.56.02:271][457]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.22-16.56.02:271][457]PIE: Server logged in
+[2025.05.22-16.56.02:272][457]PIE: Play in editor total start time 0.283 seconds.
+[2025.05.22-16.56.06:354][698]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_CustomEvent', from offset 0
+[2025.05.22-16.56.06:354][698]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Games/RideTheBus/WI_RideTheBuss_1.WI_RideTheBuss_1_C:Forfeit Pressed
+	Function /Game/Games/RideTheBus/WI_RideTheBuss_1.WI_RideTheBuss_1_C:ExecuteUbergraph_WI_RideTheBuss_1
+	Function /Game/Games/RideTheBus/WI_CardGameBase.WI_CardGameBase_C:SetPlayerMove
+	Function /Game/Games/RideTheBus/HUD_CardGame.HUD_CardGame_C:SetTablePlayerMove
+	Function /Game/Player.Player_C:SetTablePlayerMove
+	Function /Game/Games/Table.Table_C:SetPlayerMoveEvent
+
+[2025.05.22-16.56.08:933][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-16.56.08:933][698]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Casino
+[2025.05.22-16.56.08:934][698]LogWorld: UWorld::CleanupWorld for Casino, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.56.08:935][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.56.08:935][698]LogContentBundle: [Casino(Standalone)] Deleting container.
+[2025.05.22-16.56.08:938][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-16.56.08:943][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.56.08:963][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.22-16.56.08:966][698]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.22-16.56.08:966][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.22-16.56.08:968][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.22-16.56.08:974][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-16.56.08:983][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.22-16.56.09:015][699]LogPlayLevel: Display: Destroying online subsystem :Context_16
